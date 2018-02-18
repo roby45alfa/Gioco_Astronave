@@ -13,7 +13,7 @@ public:
 	Nemico(Position, int);
 
 
-	bvb
+	ciao mamma dhfhkr;
 	~Nemico();
 };
 
